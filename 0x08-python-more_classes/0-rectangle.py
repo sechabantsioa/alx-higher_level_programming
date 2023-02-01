@@ -1,13 +1,11 @@
 #!/usr/bin/python3
 
-""" Class Rectangle """
-
-
-
-
-
 class Rectangle:
 
-        """ Empty class Rectangle """
+        def __init__(self, width, height):
 
-            pass
+                    self.width = width
+
+                            self.height = height
+
+
